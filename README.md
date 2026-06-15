@@ -40,7 +40,7 @@ The project includes several charts to visually represent the data findings:
 ![Netflix Chart](top10_countries.png)
     
 6. Movies tv shows comparision (line graph)
-![Netflix Chart](movies_tv_shows_comparision.png)
+![Netflix Chart](movies_tv_show_comparision.png)
 
 🚀 How to Run This ProjectClone this repository:
    ```bash
